@@ -2,7 +2,9 @@
 
 DuneSheets is a Google Add-On that allows anyone to fetch any Dune data directly into their Google Sheets.
 
-Built with ❤️ at ETHBerlin³ by @zkguardian and @0xyielddaddy 
+Built with ❤️ at ETHBerlin³ by @zkguardian and @0xyielddaddy - 🚀 [http://www.dunesheets.com/](http://www.dunesheets.com/)
+
+![til](./dunesheets.gif)
 
 ## Add DuneSheets to your spreadsheet
 
